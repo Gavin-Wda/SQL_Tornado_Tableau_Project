@@ -9,7 +9,10 @@ The goal of this project was to explore and visualize tornado data within the Un
 
 https://opendata.rcmrd.org/datasets/fedmaps::tornado-tracks-1/about
 
+SQL Process 
 
-CST Focused Tableau Dashboard
+
+
+CST Tableau Process 
 
 <img src="Torndao_Dashboard.png" alt="CST Tornado Tableau Dashboard">
